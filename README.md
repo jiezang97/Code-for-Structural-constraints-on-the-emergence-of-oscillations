@@ -1,4 +1,4 @@
-# Wilson-Cowan Network Analysis for Oscillations in multi-population neural networks
+# Wilson-Cowan Network Analysis for Oscillations in Multi-population Neural Networks
 
 This repository contains MATLAB code designed for the analysis of oscillatory behaviours in multi-population neural networks through the framework of the Wilson-Cowan model. Our work investigates structural constraints that facilitate or hinder the emergence of oscillations in such networks.
 

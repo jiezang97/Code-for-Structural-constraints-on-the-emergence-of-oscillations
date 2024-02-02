@@ -1,10 +1,10 @@
-# Threshold-Linear Network Analysis for Oscillations in Neural Networks
+# Wilson-Cowan Network Analysis for Oscillations in multi-population neural networks
 
-This repository contains MATLAB code designed for the analysis of oscillatory behaviors in multi-population neural networks through the framework of Threshold-Linear Networks (TLN). Our work investigates structural constraints that facilitate or hinder the emergence of oscillations in such networks.
+This repository contains MATLAB code designed for the analysis of oscillatory behaviours in multi-population neural networks through the framework of the Wilson-Cowan model. Our work investigates structural constraints that facilitate or hinder the emergence of oscillations in such networks.
 
 ## Key Features
 
-- **Network Structure Visualization:** Load and visualize the structure of various neural networks, observing their dynamics in real-time.
+- **Network Structure Visualization:** Load and visualize the structure of various neural networks, observing their dynamics in real time.
 - **Parameter Exploration:** Flexibility to test different parameters for in-depth analysis, specifically tailored for examining oscillatory dynamics in neural networks.
 - **Case Studies:** Detailed examples including the Proto-STN-Arky-D2 network structure, providing insights into specific network behaviors.
 
